@@ -1,0 +1,92 @@
+[
+    {
+        "timestamp": "2026-06-02 19:49:10",
+        "user": {
+            "name": "Poorni",
+            "age": 16,
+            "degree": "High School",
+            "personality": "INFJ",
+            "skills": "Python, Excel, SQL",
+            "interests": "Data, Technology",
+            "preferred_field": "Technology",
+            "work_style": "Team"
+        },
+        "recommendations": [
+            {
+                "Data Analyst": 86.0
+            },
+            {
+                "Data Scientist": 74.0
+            },
+            {
+                "Cybersecurity Analyst": 25.0
+            },
+            {
+                "Software Developer": 22.0
+            },
+            {
+                "Machine Learning Engineer": 22.0
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-02 20:03:45",
+        "user": {
+            "name": "john",
+            "age": 17,
+            "degree": "High School",
+            "personality": "INFJ",
+            "skills": "acting",
+            "interests": "cinema",
+            "preferred_field": "Creative Arts",
+            "work_style": "Individual"
+        },
+        "recommendations": [
+            {
+                "Actor": 22.0
+            },
+            {
+                "Musician": 10.0
+            },
+            {
+                "Singer": 10.0
+            },
+            {
+                "Dancer": 10.0
+            },
+            {
+                "Film Director": 10.0
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-02 20:11:55",
+        "user": {
+            "name": "sam",
+            "age": 21,
+            "degree": "Arts",
+            "personality": "ENTP",
+            "skills": "acting,speaking",
+            "interests": "cinema,dance",
+            "preferred_field": "Creative Arts",
+            "work_style": "Both"
+        },
+        "recommendations": [
+            {
+                "Actor": 22.0
+            },
+            {
+                "Musician": 10.0
+            },
+            {
+                "Singer": 10.0
+            },
+            {
+                "Dancer": 10.0
+            },
+            {
+                "Film Director": 10.0
+            }
+        ]
+    }
+]
