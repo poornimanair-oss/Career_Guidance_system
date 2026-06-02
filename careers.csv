@@ -1,0 +1,45 @@
+Career Name,Domain,Required Skills,Interests,Education Requirement,Description
+Data Scientist,Technology,"Python,SQL,Machine Learning,Statistics,Data Visualization",Data,Engineering/Maths,Analyze complex data to find patterns and insights.
+Data Analyst,Technology,"Excel,SQL,Python,Tableau,Statistics",Data,Engineering/Maths,Transform raw data into actionable insights.
+Software Developer,Technology,"Coding,Problem Solving,Java,Python,Git",Tech,Computer Science,Design and build functional applications.
+Machine Learning Engineer,Technology,"Python,TensorFlow,Deep Learning,Algorithms,Maths",Tech,Engineering,Build AI models that learn from data.
+Cybersecurity Analyst,Technology,"Network Security,Linux,Python,Penetration Testing",Tech,Science/IT,Protect systems from digital attacks.
+Cloud Engineer,Technology,"AWS,Cloud Computing,Linux,Networking,DevOps",Tech,Engineering,Manage cloud infrastructure.
+Business Analyst,Business,"Analysis,Communication,Excel,Project Management,Process Mapping",Business,Commerce,Bridge between IT and business.
+Marketing Manager,Business,"Marketing,Social Media,Communication,SEO,Content Creation",Business,Marketing,Drive growth through marketing strategies.
+Financial Analyst,Business,"Finance,Excel,Accounting,Analytics,Economics",Numbers,Commerce,Analyze financial data for investment decisions.
+Entrepreneur,Business,"Leadership,Risk Taking,Communication,Sales,Strategy",Business,Any,Start and run own business.
+Doctor,Healthcare,"Medicine,Patient Care,Diagnosis,Communication,Biology",Health,Medical,Diagnose and treat patients.
+Nurse,Healthcare,"Nursing,Patient Care,Medicine,Biology,Empathy",Health,Nursing,Provide patient care in hospitals.
+Psychologist,Healthcare,"Psychology,Communication,Research,Empathy,Analysis",People,Psychology,Study human mind and behavior.
+Physiotherapist,Healthcare,"Physical Therapy,Anatomy,Rehabilitation,Patient Care,Biology",Health,Physiotherapy,Help patients recover movement.
+Teacher,Education,"Teaching,Communication,Patience,Subject Knowledge,Lesson Planning",Education,Education,Educate students in specific subjects.
+Professor,Education,"Research,Teaching,PhD,Academic Writing,Publications",Education,PhD,Conduct research and teach at university.
+Academic Researcher,Education,"Research,Writing,Data Analysis,Critical Thinking,Patience",Education,PhD,Conduct academic studies.
+Musician,Creative Arts,"Music,Instrument,Performance,Theory,Creativity",Arts,Music,Compose and perform music.
+Singer,Creative Arts,"Vocals,Performance,Music Theory,Stage Presence,Creativity",Arts,Music,Perform vocal music.
+Dancer,Creative Arts,"Dance,Ballet,Jazz,Hip Hop,Performance",Arts,Dance,Perform dance routines.
+Actor,Creative Arts,"Acting,Performance,Improvisation,Public Speaking,Creativity",Arts,Drama,Perform in theatre or film.
+Film Director,Creative Arts,"Film Making,Storytelling,Leadership,Cinematography,Editing",Arts,Film,Direct movies and films.
+Photographer,Creative Arts,"Photography,Photo Editing,Creativity,Composition,Lighting",Arts,Art,Take professional photographs.
+Graphic Designer,Creative Arts,"Design,Adobe Photoshop,Creativity,Typography,Communication",Arts,Design,Design visual content.
+Animator,Creative Arts,"Animation,Drawing,Creativity,Adobe Animate,Storyboarding",Arts,Animation,Create animated content.
+IAS Officer,Government,"Administration,Leadership,Public Policy,Communication,General Knowledge",Service,Any,Manage government departments.
+IPS Officer,Government,"Law Enforcement,Leadership,Security,Communication,Strategy",Service,Police,Law enforcement leadership.
+Civil Servant,Government,"Administration,Public Policy,Communication,Management,General Knowledge",Service,Any,Government administration.
+Athlete,Creative Arts,"Sports,Training,Discipline,Competition,Physical Fitness",Sports,Sports,Compete in athletic sports.
+Coach,Creative Sports,"Coaching,Training,Sports Knowledge,Communication,Motivation",Sports,Sports,Coach athletes in sports.
+Fitness Trainer,Health & Fitness,"Training,Anatomy,Exercise Science,Communication,Motivation",Sports,Fitness,Personal fitness training.
+Journalist,Media,"Writing,Research,Interviewing,Communication,Ethics",Media,Journalism,Report news and current events.
+Content Creator,Media,"Writing,Video Editing,Social Media,Creativity,Communication",Media,Media,Create online content.
+YouTuber,Media,"Video Production,Editing,Content Creation,Social Media,Communication",Media,Media,Create YouTube videos.
+Social Media Manager,Media,"Social Media,Marketing,Analytics,Content Creation,Communication",Media,Marketing,Manage social media presence.
+Scientist,Science,"Research,Scientific Method,Data Analysis,Critical Thinking,Lab Work",Science,Science,Conduct scientific research.
+Biotechnologist,Science,"Biology,Biotechnology,Research,Lab Work,Genetics",Science,Biotechnology,Work with biological processes.
+Environmental Scientist,Science,"Environmental Science,Research,Data Analysis,Field Work,Sustainability",Science,Environmental Science,Study environment.
+Chef,Other,"Cooking,Creativity,Hygiene,Taste,Management",Food,Culinary Arts,Prepare food for customers.
+Fashion Designer,Other,"Fashion Design,Creativity,Sewing,Trend Analysis,Drawing",Arts,Fashion,Design clothing and fashion.
+Interior Designer,Other,"Interior Design,Space Planning,Creativity,AutoCAD,Communication",Arts,Design,Design interior spaces.
+Lawyer,Other,"Law,Communication,Research,Debate,Analytical Thinking",Justice,Law,Interpret and apply laws.
+Architect,Other,"Architecture,AutoCAD,Design,Construction,Mathematics",Engineering,Architecture,Design buildings and structures.
+Psychologist,Healthcare,"Psychology,Communication,Research,Empathy,Analysis",People,Psychology,Study human mind behavior.
